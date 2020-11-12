@@ -1,0 +1,13 @@
+.hole1 {
+	background-color: brown;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+
+.ball { 
+	background-color: green;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+}
